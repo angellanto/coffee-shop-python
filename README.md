@@ -5,6 +5,7 @@ Strengths:
 
 Clean, well-documented code with descriptive variable names.
 Strong visualizations and practical recommendations.
+
 Weaknesses/Areas of improvement:
 
 Graphs missing labels or legends.
