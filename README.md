@@ -1,5 +1,5 @@
-# Python for Data Analyst | Team Assignment
-### Grade: 86/100
+# Coffee Shop Analysis
+### Python for Data Analyst | Team Assignment Grade: 86/100
 ### Professor Comment:
 Strengths:
 
